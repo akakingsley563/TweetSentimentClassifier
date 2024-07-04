@@ -32,7 +32,7 @@ Data Collection and Preparation:
 - Preprocessing Steps: Cleaning the data, handling missing values, encoding categorical variables, and normalizing numerical features.
 
 
-## Machine Learning Classifiers:
+## MachineLearning Classifiers:
 - Support Vector Machine (SVM)**
 - Random Forest (RF)**
 - K-Nearest Neighbors (KNN)**
