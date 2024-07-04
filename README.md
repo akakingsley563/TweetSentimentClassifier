@@ -6,7 +6,7 @@
 ## Table of Contents
 - [Project Description](#project-Description)
 - [Project Objectives](#project-objectives)
-- [Project Component](#project-component)
+- [Project Components](#project-components)
 - [Machinelearning Classifiers](#Machinelearning-Classifiers)
 - [Result](#result)
 - [Key Insights](#key-insights)
