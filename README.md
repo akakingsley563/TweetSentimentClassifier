@@ -33,12 +33,12 @@ Data Collection and Preparation:
 
 
 ## Machine Learning Classifiers:
-**Support Vector Machine (SVM)**
-**Random Forest (RF)**
-**K-Nearest Neighbors (KNN)**
-**Decision Tree (DT)**
-**Logistic Regression (LR)**
-**Naive Bayes (NB)**
+- Support Vector Machine (SVM)**
+- Random Forest (RF)**
+- K-Nearest Neighbors (KNN)**
+- Decision Tree (DT)**
+- Logistic Regression (LR)**
+- Naive Bayes (NB)**
 
 
 ## Results:
